@@ -12,7 +12,7 @@ Maybe this is due to me not willing to adapt to other people's code, or ignoranc
 
 - Receiving G code commands - G code like you see in 3D printer firmwares. List of codes below.
 - Applying all safety measures I could think of to prevent out-of-bounds travel or unexpected conditions.
-- Driving any (reasonable) number of notion axes using Step and Direction signals, with no position feedback
+- Driving any (reasonable) number of motion axes using Step and Direction signals, with no position feedback
 - Performing coordinated moves with all motors
 - Keeping an eye out for motor error input, emergency stop input, and (fun feature) a "Freeze motion" input
 
